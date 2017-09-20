@@ -1,4 +1,4 @@
-##Just trying to see what makes a good feature
+##Learning how selection of a feature matters
 import numpy as np 
 import matplotlib.pyplot as plt 
 
